@@ -36,14 +36,14 @@ Each subsystem is documented in a dedicated directory.
 ## Repository Structure
 Refer to individual folders for detailed documentation of each subsystem.
 autonomous-obstacle-racing-mecanum-robot
-├── README.md
-├── 01_hardware/README.md
-├── 02_electronics_wiring/README.md
-├── 03_sensors_and_data/README.md
-├── 04_mecanum_motion/README.md
-├── 05_control_architecture/README.md
-├── 06_firmware/README.md
-├── 07_power_system/README.md
-├── 08_autonomous_behavior/README.md
-├── 09_testing_and_validation/README.md
-└── 10_future_work/README.md
+-├── README.md
+-├── 01_hardware/README.md
+-├── 02_electronics_wiring/README.md
+-├── 03_sensors_and_data/README.md
+-├── 04_mecanum_motion/README.md
+-├── 05_control_architecture/README.md
+-├── 06_firmware/README.md
+-├── 07_power_system/README.md
+-├── 08_autonomous_behavior/README.md
+-├── 09_testing_and_validation/README.md
+-└── 10_future_work/README.md
