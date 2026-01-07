@@ -35,7 +35,7 @@ Each subsystem is documented in a dedicated directory.
 
 ## Repository Structure
 Refer to individual folders for detailed documentation of each subsystem.
-autonomous-obstacle-racing-mecanum-robot/
+autonomous-obstacle-racing-mecanum-robot
 ├── README.md
 ├── 01_hardware/README.md
 ├── 02_electronics_wiring/README.md
